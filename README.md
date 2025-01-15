@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pavel or @DevPaBeL - Developer in C/C++
+# 👋 Hi, I’m El'kin Pavel - Developer in C/C++
 
 ## About me:
 📚 - Student of School 21 and KGEU University.  
