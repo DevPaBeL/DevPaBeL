@@ -5,7 +5,7 @@
 🏀 - I am fond of basketball.  
 🤓 - I study C/C++ on my own.  
 ## Skills:
-🏆 - C/C++ (Algoritms, library).  
-🧰 - Working with development tools (Git, CMake, Debuggers).  
+🏆 - C/C++ (Algoritms, library, STL, OOP).  
+🧰 - Working with development tools (Git, CMake, Debuggers, Unit-tests, Qt5).  
 ⌛ - Multithreading and concurrency control.  
 💡 - Refactoring and code optimization.  
