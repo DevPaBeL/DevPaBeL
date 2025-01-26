@@ -8,4 +8,5 @@
 🏆 - C/C++ (Algoritms, library, STL, OOP).  
 🧰 - Working with development tools (Git, CMake, Debuggers, Unit-tests, Qt5).  
 ⌛ - Multithreading and concurrency control.  
-💡 - Refactoring and code optimization.  
+💡 - Refactoring and code optimization.
+💻 - Experience working with Linux and Bash scripts.
